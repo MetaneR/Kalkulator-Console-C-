@@ -1,1 +1,1 @@
-# Kalkulator-Console-C-
+#Podstawowy Kalkulator w konsoli - C++
